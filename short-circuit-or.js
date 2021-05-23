@@ -1,3 +1,5 @@
+// short circuit or '||' operator
+
 // When assigning a variable value to another variable, we may want to ensure that the source variable is not null, undefined, or empty.
 
 // We can either write a long if statement with multiple conditionals, or use a short - circuit evaluation in this case.

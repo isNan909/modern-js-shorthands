@@ -2,9 +2,9 @@
 
 // The optional chaining ?. is a safe way to access nested object properties, even if an intermediate property doesn’t exist.When it's possible that a reference or function may be undefined or null.
 
-// the ?. immediately stops (“short-circuits”) the evaluation if the left part doesn’t exist.
+// the ?. immediately stops(“short-circuits”) the evaluation if the left part doesn’t exist.
 
-// So, if there are any further function calls or side effects, they don’t occur.
+// So, if there are any further function calls or side effects, they don’t occur. 
 
 let programmers = {
   freelancers: {

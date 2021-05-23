@@ -5,7 +5,7 @@
 
 //
 
-// Working with loops
+// Working with loops 
 
 // older for loop
 
@@ -16,7 +16,7 @@ for (var i = 0; i < launguages.length; i++) {
   console.log(lang);
 }
 
-// shorthand modern loop
+// shorthand modern loop 
 
 const launguagesNew = ['javascript', 'typescript', 'python'];
 for (let language of launguagesNew) {
@@ -26,7 +26,7 @@ for (let language of launguagesNew) {
 // for accessing index in loops
 
 const launguagesIndex = ['javascript', 'typescript', 'python'];
-for (let index of launguagesIndex) {
+for (let index in launguagesIndex) {
   console.log(index);
 }
 

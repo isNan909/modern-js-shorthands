@@ -1,4 +1,4 @@
-// A simple if else statement. Show something if true else show something if false.
+//A simple if else statement. Show something if true else show something if false.
 
 // if else syntax
 

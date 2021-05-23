@@ -6,4 +6,4 @@ const user = 'You have logged in as ' + firstName + ' ' + lastName + '.';
 
 //Shorthand syntax
 
-const user = `You have logged in as ${first} ${last};`;
+const user = `You have logged in as ${firstName} ${lastName};`;

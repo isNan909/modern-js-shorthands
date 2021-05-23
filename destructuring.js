@@ -11,8 +11,8 @@
 var useState = require('react');
 var useRef = require('react');
 
-const loading = this.props.loading;
-const errors = this.props.errors;
+var loading = this.props.loading;
+var errors = this.props.errors;
 
 // Shorthand imports
 
@@ -29,7 +29,7 @@ console.log(secondLang);
 
 // Destructuring the object
 
-// old longer way
+// with old longer way
 
 var coderGang = {
   gangName: 'Coding Passionates',
@@ -41,7 +41,7 @@ var established = coderGang.established;
 console.log(gangName);
 console.log(established);
 
-// short modern way
+// with short modern way
 const coderGangNew = {
   gangNameNew: 'Coding Passionates',
   establishedNew: '2019',
